@@ -37,3 +37,37 @@ ________________________________________________________________________________
 *Picture of the Game*
 
 <img width="1197" alt="image" src="https://user-images.githubusercontent.com/63158543/145814449-d7884e31-19ba-4d64-90e6-b7b2a11bb627.png">
+
+ _________________________________________________________________________________________________________________________________________________________
+
+## Important Components in the GUI:
+
+*  Has a panel showing the cards of each player as well as the cards played on the table.
+
+*  The cards shown are in a partially overlapped manner.
+
+*  For each player, the panel shows his/her name and an avatar for him/her.
+
+*  For the active player, the panel shows the faces of his/her cards.
+
+*  For other players, the panel shows only the backs of their cards.
+
+*  For cards played on the table, the panel shows at least (the faces of) the last
+   hand of cards played on the table and the name of the player for this hand.
+  
+*  Allows the active player to select and deselect his/her cards by mouse clicks. The
+   selected cards should be drawn in a “raised” position with respect to the rest of the
+   cards.
+
+*  Has a “Play” button for the active player to play the selected cards.
+
+*  Has a “Pass” button for the active player to pass his/her turn to the next player.
+
+*  Has a text area to show the current game status as well as end of game messages.
+
+*  Has a text area showing the chat messages sent by the players.
+
+*  Has a text input field for the active player to send out chat messages.
+
+*  Has a “Restart” menu item for restarting the game.
+  ________________________________________________________________________________________________________________________________________________________
