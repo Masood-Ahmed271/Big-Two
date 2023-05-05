@@ -4,7 +4,7 @@ Author: Masood Ahmed <br>
 Email: 'masood20@connect.hku.hk' or 'mangimasood2000@gmail.com' <br>
 ---
 
-# BigTwo Game (Final) 
+# BigTwo Game
 
 ____________________________________________________________________________________________________________________________________________________________________
 
