@@ -1,7 +1,7 @@
----
-Title: BigTwo
-Author: Masood Ahmed
-Email: 'masood20@connect.hku.hk' or 'mangimasood2000@gmail.com'
+
+Title: BigTwo <br>
+Author: Masood Ahmed <br>
+Email: 'masood20@connect.hku.hk' or 'mangimasood2000@gmail.com' <br>
 ---
 
 # BigTwo Game (Final) 
